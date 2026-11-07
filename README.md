@@ -47,7 +47,7 @@ An intelligent, full-stack hotel management and booking platform built using Jav
 **Shivam Yadav** — Full Stack Java Developer
 
 - GitHub: https://github.com/shivamyadav-java-dev
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/shivam-yadav-java-dev
 
 ---
 
